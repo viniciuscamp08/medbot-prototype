@@ -2,7 +2,7 @@ import telebot
 import requests
 import json
 
-CHAVE_API = "6057730170:AAFuK-3y89sO8WBF1JkPjSoDhQRCFRWyzI0"
+CHAVE_API = ""
 
 
 bot = telebot.TeleBot(CHAVE_API)
